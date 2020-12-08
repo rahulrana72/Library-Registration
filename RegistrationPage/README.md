@@ -1,3 +1,7 @@
-# registration-login-springboot-security-thymeleaf
-registration-login-module using springboot, spring mvc, spring security and thymeleaf
+# Library User Management
+Registration 
+Login
+Module using springboot
+Spring mvc
+Spring security and thymeleaf
 
